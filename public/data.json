@@ -1,0 +1,52 @@
+{
+  "pizzas": [
+    {
+      "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+      "id": "napolitana",
+      "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+      "ingredients": "mozzarella, tomates, jamón, orégano",
+      "name": "01",
+      "price": "5990"
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "española",
+      "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+      "ingredients": "mozzarella, tomates, jamón, choricillo",
+      "name": "02",
+      "price": "7250"
+    },
+    {
+      "desc": "El salame es un tipo de embutido curado y seco que se corta en rodajas finas y se agrega a la pizza como un aderezo. La base de la pizza generalmente está cubierta con salsa de tomate y queso, y luego se colocan las rodajas de salame en la parte superior.",
+      "id": "salame",
+      "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3",
+      "ingredients": "mozzarella, tomates, salame, orégano",
+      "name": "03",
+      "price": "5990"
+    },
+    {
+      "desc": "La pizza Cuatro Estaciones es una variedad de pizza que se divide en cuatro secciones, cada una representando una estación del año. Cada sección se cubre con diferentes ingredientes que se corresponden con los productos que están disponibles durante cada estación.",
+      "id": "cuatro estaciones",
+      "img": "https://recetinas.com/wp-content/uploads/2022/11/Pizza-cuatro-estaciones.jpg",
+      "ingredients": "mozzarella, salame, aceitunas, champiñones",
+      "name": "04",
+      "price": "9590"
+    },
+    {
+      "desc": "La base de la pizza generalmente está cubierta con salsa de tomate y queso, y luego se agrega tocino ahumado en trozos o en rodajas como un aderezo adicional.",
+      "id": "bacon",
+      "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+      "ingredients": "mozzarella, tomates cherry, bacon, orégano",
+      "name": "05",
+      "price": "6450"
+    },
+    {
+      "desc": "La pizza de pollo picante es una variedad de pizza que presenta pollo como ingrediente principal con un toque de especias para darle un sabor picante. La base de la pizza generalmente está cubierta con salsa de tomate o salsa barbacoa, y se agrega pollo marinado en rodajas o trozos como un aderezo adicional.",
+      "id": "pollo picante",
+      "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+      "ingredients": "mozzarella, pimientos, pollo grillé, orégano",
+      "name": "06",
+      "price": "8500"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.grid-columns-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+.grid-columns-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+.galeria {
+  display: grid;
+  gap: 10px;
+}
+.galeria .foto {
+
+ cursor: pointer;
+ padding: 15px 15px 0px 10px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ align-items: flex-start;
+ height: 200px;
+ background-size: cover;
+ background-position: center;
+ color: white;
+ text-align: left;
+ text-shadow: 0px 0px 15px black;
+}
+.galeria .foto:hover {
+  box-shadow: 0px 0px 2px 1px black;
+}
+
+.p-3 {
+  padding: 30px;
+}
+
